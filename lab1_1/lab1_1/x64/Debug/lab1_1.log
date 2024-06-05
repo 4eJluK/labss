@@ -1,0 +1,4 @@
+﻿  lab1_1.cpp
+C:\Users\nelli\source\repos\lab1_1\lab1_1\lab1_1.cpp(7,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nelli\source\repos\lab1_1\lab1_1\lab1_1.cpp(20,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1_1.vcxproj -> C:\Users\nelli\source\repos\lab1_1\x64\Debug\lab1_1.exe
